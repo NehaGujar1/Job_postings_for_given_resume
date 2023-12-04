@@ -17,10 +17,10 @@ individuals to make informed career choices.
 # Instructions for Use
 <ol>
   <li>Download all necessary libraries</li>
-  <li>Run `observation_on_job_postings.ipynb` to see analysis on current job trends extracted from LinkedIn dataset</li>
-  <li> Replace corresponding values of Skills, Category, Years of Experience, Education, Summary in <em>predict_job_type()`</em> function, otherwise you can use other entries from the given `Resume.csv` dataset for prediction. </li>
-  <li>Run `resume_analysis.ipynb</li>
-  <li> Read the results from `best_predicted_jobs.csv`</li>
+  <li>Run <em>observation_on_job_postings.ipynb</em> to see analysis on current job trends extracted from LinkedIn dataset</li>
+  <li> Replace corresponding values of Skills, Category, Years of Experience, Education, Summary in <em>predict_job_type()</em> function, otherwise you can use other entries from the given <em>Resume.csv</em> dataset for prediction. </li>
+  <li>Run <em>resume_analysis.ipynb</em></li>
+  <li> Read the results from <em>best_predicted_jobs.csv</em></li>
 </ol>
   
 
